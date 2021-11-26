@@ -1,12 +1,9 @@
 ---
 nav:
-  title: Components
+  title: 组件
+  order: 1
   path: /components
 ---
-
-## Foo
-
-Demo:
 
 ```tsx
 import React from 'react';

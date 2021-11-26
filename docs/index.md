@@ -1,5 +1,7 @@
 ---
-title: dumi - A doc tool can assist you to develop libraries & write docs.
+title: TIYA-UI
+group:
+  title: components
 order: 10
 hero:
   title: dumi
